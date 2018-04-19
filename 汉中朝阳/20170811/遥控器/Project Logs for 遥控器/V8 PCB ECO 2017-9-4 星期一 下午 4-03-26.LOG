@@ -1,0 +1,7 @@
+Change Component Comment : Designator=S7 Old Comment=SW-PB New Comment=下降
+Change Component Comment : Designator=S2 Old Comment=SW-PB New Comment=手动/自动
+Change Component Comment : Designator=S4 Old Comment=SW-PB New Comment=故障复位
+Change Component Comment : Designator=S6 Old Comment=SW-PB New Comment=起升
+Change Component Comment : Designator=S3 Old Comment=SW-SPST New Comment=使能
+Change Component Comment : Designator=S5 Old Comment=SW-SPST New Comment=急停
+Change Component Comment : Designator=S1 Old Comment=SW-SPST New Comment=电源

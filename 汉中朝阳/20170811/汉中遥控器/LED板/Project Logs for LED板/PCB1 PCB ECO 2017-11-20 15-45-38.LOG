@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D6
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D7
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change Component Designator: OldDesignator=D6 NewDesignator=D8
+Change Component Designator: OldDesignator=D7 NewDesignator=D4
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Change Component Designator: OldDesignator=D9 NewDesignator=D5
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD5_1

@@ -1,0 +1,6 @@
+Change Component Comment : Designator=S7 Old Comment=下降 New Comment=急停
+Change Component Comment : Designator=S3 Old Comment=使能 New Comment=快速/慢速
+Change Component Comment : Designator=S5 Old Comment=急停 New Comment=起升
+Change Component Comment : Designator=S2 Old Comment=手动/自动 New Comment=行走/升降
+Change Component Comment : Designator=S4 Old Comment=故障复位 New Comment=直行/斜行
+Change Component Comment : Designator=S6 Old Comment=起升 New Comment=下降

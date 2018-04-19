@@ -1,0 +1,8 @@
+Added Component: Designator=E1(定位孔 Φ3.2)
+Added Component: Designator=E2(定位孔 Φ3.2)
+Added Component: Designator=E3(定位孔 Φ3.2)
+Added Component: Designator=E4(定位孔 Φ3.2)
+Added Member To Class: ClassName=Sheet1 Member=Component E1 Antenna
+Added Member To Class: ClassName=Sheet1 Member=Component E2 Antenna
+Added Member To Class: ClassName=Sheet1 Member=Component E3 Antenna
+Added Member To Class: ClassName=Sheet1 Member=Component E4 Antenna

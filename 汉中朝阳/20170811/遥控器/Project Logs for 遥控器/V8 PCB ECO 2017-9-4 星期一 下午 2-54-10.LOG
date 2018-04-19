@@ -1,0 +1,39 @@
+Added Component: Designator=U1(LQFP-48_7x7x05P)
+Added Pin To Net: NetName=V3.3 Pin=U1-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-5
+Added Pin To Net: NetName=NetC7_1 Pin=U1-6
+Added Pin To Net: NetName=NetC8_1 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=V3.3 Pin=U1-9
+Added Pin To Net: NetName=U2_TX Pin=U1-12
+Added Pin To Net: NetName=U2_RX Pin=U1-13
+Added Pin To Net: NetName=ADC4 Pin=U1-14
+Added Pin To Net: NetName=ADC5 Pin=U1-15
+Added Pin To Net: NetName=ADC6 Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=KEY3 Pin=U1-21
+Added Pin To Net: NetName=KEY4 Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=V3.3 Pin=U1-24
+Added Pin To Net: NetName=KEY5 Pin=U1-25
+Added Pin To Net: NetName=SW1 Pin=U1-26
+Added Pin To Net: NetName=SW2 Pin=U1-27
+Added Pin To Net: NetName=SW3 Pin=U1-28
+Added Pin To Net: NetName=U1_TX Pin=U1-30
+Added Pin To Net: NetName=U1_RX Pin=U1-31
+Added Pin To Net: NetName=JTMS Pin=U1-34
+Added Pin To Net: NetName=GND Pin=U1-35
+Added Pin To Net: NetName=V3.3 Pin=U1-36
+Added Pin To Net: NetName=JTCK Pin=U1-37
+Added Pin To Net: NetName=LED1 Pin=U1-39
+Added Pin To Net: NetName=LED2 Pin=U1-40
+Added Pin To Net: NetName=LED3 Pin=U1-41
+Added Pin To Net: NetName=LED4 Pin=U1-42
+Added Pin To Net: NetName=LED5 Pin=U1-43
+Added Pin To Net: NetName=GND Pin=U1-44
+Added Pin To Net: NetName=KEY1 Pin=U1-45
+Added Pin To Net: NetName=KEY2 Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=V3.3 Pin=U1-48
+Added Member To Class: ClassName=Sheet1 Member=Component U1 STM32F103C8T6
+Added Room: Name=Sheet1

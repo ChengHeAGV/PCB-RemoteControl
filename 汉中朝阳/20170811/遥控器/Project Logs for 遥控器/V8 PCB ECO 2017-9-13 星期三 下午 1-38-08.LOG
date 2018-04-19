@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=P3-2
+Removed Pin From Net: NetName=U2_RX Pin=P3-3
+Removed Pin From Net: NetName=U2_TX Pin=P3-4
+Removed Pin From Net: NetName=GND Pin=P3-5
+Removed Pin From Net: NetName=U2_TX Pin=U1-12
+Removed Pin From Net: NetName=U2_RX Pin=U1-13
+Change Component DesignItemId : Designator=P3 Old DesignItemId=Header 5 New DesignItemId=Header 4
+Change Component Footprint: Designator=P3 Old Footprint=HDR1X5 New Footprint=IDE4
+Change Component Comment : Designator=P4 Old Comment=Ò¡¸Ë New Comment=Header 7
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(0805_C)
+Added Component: Designator=C?(0805_C)
+Added Component: Designator=C?(0805_C)
+Added Component: Designator=C?(0805_C)
+Added Component: Designator=U?(SO-16)
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VCC3.3 Pin=C?-2
+Added Pin To Net: NetName=VCC3.3 Pin=C?-2
+Added Pin To Net: NetName=U2_RX Pin=P3-2
+Added Pin To Net: NetName=U2_TX Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=U2_RX Pin=U?-13
+Added Pin To Net: NetName=U2_TX Pin=U?-14
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=VCC3.3 Pin=U?-16
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=U?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=PA2_U2_TX Pin=U1-12
+Added Pin To Net: NetName=PA2_U2_TX Pin=U?-11
+Added Net: Name=PA2_U2_TX
+Added Pin To Net: NetName=PA3_U2_RX Pin=U1-13
+Added Pin To Net: NetName=PA3_U2_RX Pin=U?-12
+Added Net: Name=PA3_U2_RX
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 7
+Added Member To Class: ClassName=Sheet1 Member=Component U? MAX3232CUE

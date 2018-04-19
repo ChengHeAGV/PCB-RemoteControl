@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=S8-2
+Removed Member From Class: ClassName=Sheet1 Member=S8
+Change Component Designator: OldDesignator=下降 NewDesignator=S7
+Change Component Designator: OldDesignator=急停 NewDesignator=S1
+Change Component Designator: OldDesignator=手动/自动 NewDesignator=S2
+Change Component Designator: OldDesignator=故障复位 NewDesignator=S4
+Change Component Designator: OldDesignator=电池 NewDesignator=BT1
+Change Component Designator: OldDesignator=电源 NewDesignator=S3
+Change Component Designator: OldDesignator=起升 NewDesignator=S6

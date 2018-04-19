@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\PCB电路图\AGV_PCB_20170811\遥控器\遥控器\V8.PCBDOC
+Date         : 2017/9/13 星期三
+Time         : 下午 3:13:43
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 125
+    Connections routed, 125
+    Connections remaining, 0
+count : 4

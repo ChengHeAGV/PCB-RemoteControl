@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=KEY_Z Pin=P4-3
+Removed Pin From Net: NetName=KEY_X Pin=P4-5
+Added Pin To Net: NetName=KEY_X Pin=P4-3
+Added Pin To Net: NetName=KEY_Z Pin=P4-5

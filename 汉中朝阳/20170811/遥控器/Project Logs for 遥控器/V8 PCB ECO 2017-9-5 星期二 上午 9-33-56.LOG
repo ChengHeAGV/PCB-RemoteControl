@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC Pin=BT1-1
+Removed Pin From Net: NetName=VCC Pin=S1-2
+Change Component Comment : Designator=P4 Old Comment=Ò¡¸Ë New Comment=Header 7
+Change Component Designator: OldDesignator=Òº¾§ÆÁ NewDesignator=P3
+Added Component: Designator=C4(3216)
+Added Component: Designator=C10(0805_C)
+Added Component: Designator=U3(LC-SOT-223)
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VCC Pin=U3-2
+Added Pin To Net: NetName=VCC Pin=U3-2
+Added Pin To Net: NetName=NetS1_1 Pin=U3-3
+Added Pin To Net: NetName=VCC8 Pin=BT1-1
+Added Pin To Net: NetName=VCC8 Pin=S1-2
+Added Net: Name=VCC8
+Added Member To Class: ClassName=Sheet1 Member=Component C4 100uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component C10 104
+Added Member To Class: ClassName=Sheet1 Member=Component U3 AMS1117-5

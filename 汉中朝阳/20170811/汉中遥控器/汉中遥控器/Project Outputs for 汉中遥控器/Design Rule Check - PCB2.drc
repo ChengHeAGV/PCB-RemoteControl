@@ -1,0 +1,172 @@
+Protel Design System Design Rule Check
+PCB File : D:\guokai\PCBµçÂ·Í¼\AGV_PCB_20170811\Ò£¿ØÆ÷\ººÖÐÒ£¿ØÆ÷\ººÖÐÒ£¿ØÆ÷\PCB2.PcbDoc
+Date     : 2017/12/1
+Time     : 18:23:15
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (All),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Pad E4-1(147.637mm,-69.977mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(151.649mm,-71.639mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(151.649mm,-68.315mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(148.325mm,-68.315mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(148.325mm,-71.639mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(149.987mm,-72.327mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(152.337mm,-69.977mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(149.987mm,-67.627mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(-1.662mm,-68.315mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(-1.662mm,-71.639mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(0mm,-72.327mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(-2.35mm,-69.977mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(2.35mm,-69.977mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(0mm,-67.627mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(1.662mm,-71.639mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(1.662mm,-68.315mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E2-1(147.637mm,0.127mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(151.649mm,1.789mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(151.649mm,-1.535mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(149.987mm,-2.223mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(152.337mm,0.127mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(148.325mm,1.789mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(149.987mm,2.477mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(148.325mm,-1.535mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E1-1(0mm,-2.35mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(-2.35mm,0mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(0mm,2.35mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(2.35mm,0mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(-1.662mm,1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(-1.662mm,-1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(1.662mm,1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(1.662mm,-1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+Rule Violations :32
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=0.762mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+   Violation between Pad E4-1(147.637mm,-69.977mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(151.649mm,-71.639mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(151.649mm,-68.315mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(148.325mm,-68.315mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(148.325mm,-71.639mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(149.987mm,-72.327mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(152.337mm,-69.977mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E4-1(149.987mm,-67.627mm)  Multi-Layer and 
+                     Pad E4-1(149.987mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(-1.662mm,-68.315mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(-1.662mm,-71.639mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(0mm,-72.327mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(-2.35mm,-69.977mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(2.35mm,-69.977mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(0mm,-67.627mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(1.662mm,-71.639mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E3-1(1.662mm,-68.315mm)  Multi-Layer and 
+                     Pad E3-1(0mm,-69.977mm)  Multi-Layer
+   Violation between Pad E2-1(147.637mm,0.127mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(151.649mm,1.789mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(151.649mm,-1.535mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(149.987mm,-2.223mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(152.337mm,0.127mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(148.325mm,1.789mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(149.987mm,2.477mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E2-1(148.325mm,-1.535mm)  Multi-Layer and 
+                     Pad E2-1(149.987mm,0.127mm)  Multi-Layer
+   Violation between Pad E1-1(0mm,-2.35mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(-2.35mm,0mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(0mm,2.35mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(2.35mm,0mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(-1.662mm,1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(-1.662mm,-1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(1.662mm,1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+   Violation between Pad E1-1(1.662mm,-1.662mm)  Multi-Layer and 
+                     Pad E1-1(0mm,0mm)  Multi-Layer
+Rule Violations :32
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.076mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+
+Violations Detected : 64
+Time Elapsed        : 00:00:10

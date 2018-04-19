@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=LED1 Pin=D4-K
+Removed Pin From Net: NetName=LED2 Pin=D5-K
+Removed Pin From Net: NetName=LED3 Pin=D6-K
+Removed Pin From Net: NetName=LED4 Pin=D7-K
+Removed Pin From Net: NetName=LED5 Pin=D8-K
+Change Component DesignItemId : Designator=D4 Old DesignItemId=LED0 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D5 Old DesignItemId=LED0 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D6 Old DesignItemId=LED0 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D7 Old DesignItemId=LED0 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D8 Old DesignItemId=LED0 New DesignItemId=LED2
+Change Component Footprint: Designator=D4 Old Footprint=0805_LED_S1 New Footprint=LED1
+Change Component Footprint: Designator=D5 Old Footprint=0805_LED_S1 New Footprint=LED1
+Change Component Footprint: Designator=D7 Old Footprint=0805_LED_S1 New Footprint=LED1
+Change Component Footprint: Designator=D8 Old Footprint=0805_LED_S1 New Footprint=LED1
+Change Component Footprint: Designator=D6 Old Footprint=LC-0805_LED_S1 New Footprint=LED1
+Change Component Comment : Designator=D4 Old Comment=LED0 New Comment=LED2
+Change Component Comment : Designator=D5 Old Comment=LED0 New Comment=LED2
+Change Component Comment : Designator=D6 Old Comment=LED0 New Comment=LED2
+Change Component Comment : Designator=D7 Old Comment=LED0 New Comment=LED2
+Change Component Comment : Designator=D8 Old Comment=LED0 New Comment=LED2
+Added Pin To Net: NetName=LED1 Pin=D4-2
+Added Pin To Net: NetName=LED2 Pin=D5-2
+Added Pin To Net: NetName=LED3 Pin=D6-2
+Added Pin To Net: NetName=LED4 Pin=D7-2
+Added Pin To Net: NetName=LED5 Pin=D8-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R5-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R8-1
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R11-1
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R12-1
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R13-1
+Added Net: Name=NetD8_1

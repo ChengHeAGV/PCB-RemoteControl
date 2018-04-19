@@ -1,0 +1,62 @@
+Added Component: Designator=C1(0603-CAP)
+Added Component: Designator=C2(0603-CAP)
+Added Component: Designator=C3(0603-CAP)
+Added Component: Designator=C4(0603-CAP)
+Added Component: Designator=C6(3216)
+Added Component: Designator=C8(0603-CAP)
+Added Component: Designator=D2(LC-0805_LED_S1)
+Added Component: Designator=D3(LC-0805_LED_S1)
+Added Component: Designator=D6(LC-0805_LED_S1)
+Added Component: Designator=P1(IDE4)
+Added Component: Designator=P2(AS50-T27)
+Added Component: Designator=U2(LC-SOT-223)
+Added Component: Designator=Y1(XTAL_US)
+Added Pin To Net: NetName=V3.3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=V3.3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=V3.3 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=V3.3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCC3.3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=AUX Pin=D3-K
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=LED3 Pin=D6-K
+Added Pin To Net: NetName=V3.3 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=JTMS Pin=P1-3
+Added Pin To Net: NetName=JTCK Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=VCC3.3 Pin=P2-2
+Added Pin To Net: NetName=AUX Pin=P2-3
+Added Pin To Net: NetName=U1_RX Pin=P2-4
+Added Pin To Net: NetName=U1_TX Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=VCC3.3 Pin=U2-2
+Added Pin To Net: NetName=VCC3.3 Pin=U2-2
+Added Pin To Net: NetName=NetS1_1 Pin=U2-3
+Added Pin To Net: NetName=NetC5_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC7_1 Pin=Y1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 104
+Added Member To Class: ClassName=Sheet1 Member=Component C2 104
+Added Member To Class: ClassName=Sheet1 Member=Component C3 104
+Added Member To Class: ClassName=Sheet1 Member=Component C4 104
+Added Member To Class: ClassName=Sheet1 Member=Component C6 100uF/6.3V
+Added Member To Class: ClassName=Sheet1 Member=Component C8 104
+Added Member To Class: ClassName=Sheet1 Member=Component D2 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D3 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component D6 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 7
+Added Member To Class: ClassName=Sheet1 Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 8M
+Added Room: Name=Sheet1

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C9 Old Footprint=C0805 New Footprint=0805_C
+Added Component: Designator=C5(0805_C)
+Added Component: Designator=C7(0805_C)
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=Sheet1 Member=Component C5 22pF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 22pF
+Added Room: Name=Sheet1

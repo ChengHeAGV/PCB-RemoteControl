@@ -1,0 +1,9 @@
+Added Component: Designator=D9(LC-0805_LED_S1)
+Added Component: Designator=R14(0603_R)
+Added Pin To Net: NetName=GND Pin=D9-K
+Added Pin To Net: NetName=VCC Pin=R14-1
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=R14-2
+Added Net: Name=NetD9_A
+Added Member To Class: ClassName=Sheet1 Member=Component D9 LED0
+Added Member To Class: ClassName=Sheet1 Member=Component R14 1k

@@ -1,0 +1,35 @@
+Added Component: Designator=D11(LED1)
+Added Component: Designator=D12(LED1)
+Added Component: Designator=D13(LED1)
+Added Component: Designator=D14(LED1)
+Added Component: Designator=D15(LED1)
+Change Net Name : Old Net Name=LED1 New Net Name=LED6
+Change Net Name : Old Net Name=LED2 New Net Name=LED7
+Change Net Name : Old Net Name=LED3 New Net Name=LED8
+Change Net Name : Old Net Name=LED4 New Net Name=LED9
+Change Net Name : Old Net Name=LED5 New Net Name=LED10
+Added Pin To Net: NetName=LED1 Pin=D11-2
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=D12-2
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED3 Pin=D13-2
+Added Net: Name=LED3
+Added Pin To Net: NetName=LED4 Pin=D14-2
+Added Net: Name=LED4
+Added Pin To Net: NetName=LED5 Pin=D15-2
+Added Net: Name=LED5
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Net: Name=NetD15_1
+Added Member To Class: ClassName=Sheet2 Member=Component D11 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D12 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D13 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D14 LED2
+Added Member To Class: ClassName=Sheet2 Member=Component D15 LED2
